@@ -1,4 +1,4 @@
-# Nenopause discussion Analysis
+# Menopause discussion Analysis
 The loss of hormones during menopause is a difficult stage of life that has both physical and psychological effects that might interfere with day-to-day activities. As technology is on the rise, social media
 platforms and forums can give useful knowledge and social support to people going through menopause,
 even though medical experts might not always be suited to do so. The study here aims to verify the
